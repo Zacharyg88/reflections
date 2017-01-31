@@ -1,0 +1,3 @@
+Q1 - How is the staging are adifferent from the working directory and the repository? What value do you think it offers?
+A1 - The staging area allows us to pick and choose which items from our working directory will be added to the commit. This is valuable because
+we can now be precise with our commit decisions.
