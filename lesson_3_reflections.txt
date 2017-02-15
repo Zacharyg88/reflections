@@ -16,3 +16,11 @@ Q5 - How would you collaborate without using Git or Github? What would be easeie
 A5 - Without Git and Github, we would be forced to use some other peer-2-peer resource (like google docs) to be able to see what changes
 other users are making. This would be difficult because we would have to keep track of every minute detail of each different change so that 
 there are no redundancies or changes made to outdated versions of the code. There would have to be much more communication and effort.
+Q6 - when would you want to make changes in a seperate branch rather
+than directly in master? What benefit does each approach have?
+A6 - Making changes in a branch allows us to "beta test" concepts that we might not be willing to fully commit to in the master branch. This
+allows us to be more creative without having to "un-do" these changes 
+one at a time later if we decide not to keep the changes. Making changes
+directly to the master can be helpfull when we know that they are changes we definitely will want to keep in the final product. This
+keeps our work flow nice and clean, without having to worry about which
+branch we are on.
