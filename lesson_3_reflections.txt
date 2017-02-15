@@ -12,3 +12,7 @@ Q4 - What is the benefit of havina a copy of the last known state of the remote 
 A4 - Without a locally stored copy, we would be unable to accurately
 update our code without internet access. So long as we have the most
 up to date copy stored locally, we can work without consequence offline.
+Q5 - How would you collaborate without using Git or Github? What would be easeier and what would be harder?
+A5 - Without Git and Github, we would be forced to use some other peer-2-peer resource (like google docs) to be able to see what changes
+other users are making. This would be difficult because we would have to keep track of every minute detail of each different change so that 
+there are no redundancies or changes made to outdated versions of the code. There would have to be much more communication and effort.
