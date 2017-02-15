@@ -3,3 +3,8 @@ A1 - It makes much more sense to use a remote repository when you may be working
 you are collaborating with other developers. This way, you always have the most up to date information in the repository.
 Q2 - Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 A2 - Automatic updates will probably cause redundant or extraneous "pulls" that are just not necessary and will clutter our git log.
+git 
+Q3 - Describe the differences between forks, clones, and branches. When would you use one instead of another?
+A3 - Forks are just clones that only exist on GitHub, and are made by
+GitHub. A Clone is a copy of a repository that can exist both locally and on GitHub, and branches are deviations or seperate versions of the 
+same repository in order to workshop or trial run specific pieces of code.
